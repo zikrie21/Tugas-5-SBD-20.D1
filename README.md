@@ -1,9 +1,9 @@
 # TUGAS 5
 
-Nama : Zikri Hadiansyah
-Nim : 312010069
-Kelas : TI.20.D.1
-Matkul : Sistem Basis Data
+- Nama : Zikri Hadiansyah
+- Nim : 312010069
+- Kelas : TI.20.D.1
+- Matkul : Sistem Basis Data
 
 # Soal
 
@@ -12,27 +12,27 @@ Matkul : Sistem Basis Data
 
 # Desain Database
 
-[img](screenshot/ss1.jpg)
+[gambar 1](screenshot/ss1.jpg)
 
 # Screenshot Website
 
 - Home
-  [img](screenshot/ss2.png)
+  [gambar 2](screenshot/ss2.png)
 
 - Tabel Pasien
-  [img](screenshot/ss3.png)
+  [gambar 3](screenshot/ss3.png)
 
 - Tabel Obat
-  [img](screenshot/ss4.png)
+  [gambar 4](screenshot/ss4.png)
 
 - Tabel Dokter
-  [img](screenshot/ss5.png)
+  [gambar 5](screenshot/ss5.png)
 
 - Tabel Berobat
-  [img](screenshot/ss6.png)
+  [gambar 6](screenshot/ss6.png)
 
 - Tabel Resep Obat
-  [img](screenshot/ss7.png)
+  [gamabar 7](screenshot/ss7.png)
 
 - Tabel Users
-  [img](screenshot/ss8.png)
+  [gambar 8](screenshot/ss8.png)
