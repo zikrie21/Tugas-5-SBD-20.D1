@@ -12,27 +12,27 @@
 
 # Desain Database
 
-[gambar 1](screenshot/ss1.jpg)
+![gambar 1](screenshot/ss1.jpg)
 
 # Screenshot Website
 
 - Home
-  [gambar 2](screenshot/ss2.png)
+  ![gambar 2](screenshot/ss2.png)
 
 - Tabel Pasien
-  [gambar 3](screenshot/ss3.png)
+  ![gambar 3](screenshot/ss3.png)
 
 - Tabel Obat
-  [gambar 4](screenshot/ss4.png)
+  ![gambar 4](screenshot/ss4.png)
 
 - Tabel Dokter
-  [gambar 5](screenshot/ss5.png)
+  ![gambar 5](screenshot/ss5.png)
 
 - Tabel Berobat
-  [gambar 6](screenshot/ss6.png)
+  ![gambar 6](screenshot/ss6.png)
 
 - Tabel Resep Obat
-  [gamabar 7](screenshot/ss7.png)
+  ![gamabar 7](screenshot/ss7.png)
 
 - Tabel Users
-  [gambar 8](screenshot/ss8.png)
+  ![gambar 8](screenshot/ss8.png)
